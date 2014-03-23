@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395609889 source:c:\users\gabz\documents\github\tarea01-gacd-moveranimar\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
